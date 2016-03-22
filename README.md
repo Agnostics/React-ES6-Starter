@@ -22,7 +22,7 @@ Once everything is ready just open up http://localhost:8080 in your browser!
 <div id="app"></div>
 ```
 
-##### Paste entire file into Javascript section
+##### Paste code below the imports into Javascript section
 ```
 app.jsx
 ```
